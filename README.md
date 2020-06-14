@@ -1,6 +1,9 @@
 # Driver-Drowsiness-Alert-System
 A simple algorithm to detect drowsiness of the drivers developed using OpenCV pretrained Haar Cascades to help prevent potential accidents.
 
+* Link to download trained Keras model
+https://drive.google.com/file/d/1IuC1spVSu7PGoi5zzFYAMG794VTa9Ixy/view?usp=sharing
+
 Description
 ===============
 * Utilize OpenCV's Haar cascades to build a simple drowsiness detection system.
