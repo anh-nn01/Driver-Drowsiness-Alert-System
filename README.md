@@ -22,6 +22,6 @@ Purpose:
 * Maybe parents can use this system to alert their children whenever the children fall asleep while studying.
 
 # License and Responsibility:
-* The program and the code source is open for public use for any purpose without the need of licensing.
+* The program and the code source are open for public use for any purpose without the need of licensing.
 * The development of the system is served only for my purpose of learning OpenCV environment.
-* I will not take any legal or non-legal responsibility if any accident or damage is resulted from the misuses of this program.
+* I will not take any legal or non-legal responsibility if any accident or damage is resulted from this program.
